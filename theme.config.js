@@ -1,5 +1,5 @@
 export default {
-    logo: <span>Your Portfolio</span>,
+    logo: <span>Fita Wegene</span>,
     nav: [
       { text: 'Home', href: '/' },
       { text: 'About', href: '/about' },
@@ -9,6 +9,10 @@ export default {
       { text: 'ML', href: '/ml' },
       { text: 'UI/UX', href: '/ux' },
     ],
+    search: {
+        placeholder: 'Search through my projects...',
+        // Add any additional search configurations here
+      },
     // Additional customization options
   }
   
