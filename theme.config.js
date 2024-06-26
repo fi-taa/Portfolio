@@ -1,6 +1,5 @@
-// theme.config.js
 export default {
-    logo: <span>Fi Portfolio</span>,
+    logo: <span>Your Portfolio</span>,
     nav: [
       { text: 'Home', href: '/' },
       { text: 'About', href: '/about' },
